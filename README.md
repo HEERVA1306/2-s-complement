@@ -1,1 +1,1 @@
-# 1-s-complement
+# 1-s-complement using c program
